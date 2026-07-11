@@ -1,0 +1,61 @@
+dish,region,ingredients,calories,protein_g,carbs_g,fat_g,calcium_mg,magnesium_mg,sodium_mg,allergens
+Tur Dal with Rice,Maharashtra,"tur dal, rice, turmeric, cumin, tomato, onion",420,14,68,8,60,80,320,none
+Poha,Maharashtra,"flattened rice, onion, peanuts, mustard seeds, curry leaves, lemon",280,7,45,9,30,50,380,peanuts
+Misal Pav,Maharashtra,"sprouted moth beans, pav bread, onion, farsan, spices",550,18,70,20,90,70,700,gluten
+Varan Bhaat,Maharashtra,"toor dal, rice, ghee, turmeric",480,15,75,10,50,60,250,dairy
+Rajma Chawal,Punjab,"kidney beans, rice, onion, tomato, garam masala",520,20,85,7,80,90,450,none
+Chole,Punjab,"chickpeas, onion, tomato, ginger garlic, spices",450,17,65,12,100,85,600,none
+Sarson da Saag with Makki Roti,Punjab,"mustard greens, corn flour, ghee, garlic",400,12,50,15,220,110,380,dairy
+Idli Sambar,South Indian,"rice, urad dal, toor dal, vegetables, tamarind",380,13,60,6,70,60,500,none
+Dosa with Chutney,South Indian,"rice, urad dal, coconut, green chili",350,9,55,10,40,45,300,none
+Curd Rice,South Indian,"rice, curd, mustard seeds, curry leaves, ginger",320,10,50,8,180,40,220,dairy
+Puran Poli,Maharashtra,"wheat flour, chana dal, jaggery, ghee",320,8,55,8,40,50,150,"gluten,dairy"
+Sabudana Khichdi,Maharashtra,"sabudana, peanuts, potato, cumin",380,6,60,12,30,45,300,peanuts
+Thalipeeth,Maharashtra,"mixed flour, onion, spices",300,9,45,10,50,60,350,gluten
+Batata Vada,Maharashtra,"potato, gram flour, spices, fried",350,6,40,18,30,35,400,none
+Zunka Bhakri,Maharashtra,"gram flour, jowar flour, onion",340,10,50,10,60,70,380,none
+Kothimbir Vadi,Maharashtra,"gram flour, coriander, spices",280,8,35,12,40,45,320,none
+Pithla Bhakri,Maharashtra,"gram flour, jowar bhakri, onion",360,12,55,10,70,80,400,none
+Amti,Maharashtra,"toor dal, kokum, jaggery, spices",250,10,35,6,50,55,350,none
+Vangi Bhaat,Maharashtra,"brinjal, rice, spices",400,8,65,10,45,50,380,none
+Modak Steamed,Maharashtra,"rice flour, coconut, jaggery",300,4,55,8,30,35,60,none
+Mixed Veg Sabzi Roti,Maharashtra,"wheat roti, mixed vegetables",380,10,55,10,80,70,300,gluten
+Solkadhi with Rice,Maharashtra,"coconut milk, kokum, rice",350,6,55,12,40,45,250,none
+Butter Chicken with Naan,Punjab,"chicken, butter, cream, naan",650,35,55,30,150,60,750,"dairy,gluten"
+Dal Makhani,Punjab,"black lentils, kidney beans, butter, cream",480,18,45,22,120,70,550,dairy
+Amritsari Kulcha with Chole,Punjab,"kulcha bread, chickpeas",550,16,80,15,90,75,650,gluten
+Paneer Tikka,Punjab,"paneer, yogurt, spices, grilled",400,22,12,28,300,40,450,dairy
+Aloo Paratha with Curd,Punjab,"wheat flour, potato, curd",480,12,65,18,150,60,400,"gluten,dairy"
+Kadhi Chawal,Punjab,"gram flour, yogurt, rice",400,10,60,12,140,50,450,dairy
+Bhindi Masala with Roti,Punjab,"okra, onion, spices, wheat roti",380,9,55,12,90,60,350,gluten
+Chana Masala with Rice,Punjab,"chickpeas, rice, spices",450,16,70,10,90,80,500,none
+Rajma with Roti,Punjab,"kidney beans, wheat roti",460,18,65,10,80,85,420,gluten
+Punjabi Kadhi Pakora,Punjab,"gram flour fritters, yogurt gravy, rice",420,12,55,15,130,55,480,dairy
+Lassi with Paratha,Punjab,"yogurt drink, wheat paratha",500,14,60,20,250,50,300,"dairy,gluten"
+Palak Paneer with Roti,Punjab,"spinach, paneer, wheat roti",420,20,40,20,320,90,400,"dairy,gluten"
+Chole Bhature,Punjab,"chickpeas, fried bread",600,16,85,22,90,70,600,gluten
+Siddu,Himachal,"wheat flour steamed bun, walnut, poppy seed, ghee",350,8,55,12,40,60,200,"gluten,tree nuts"
+Dham,Himachal,"rice, dal, curd, spices",420,14,65,10,100,60,350,dairy
+Chana Madra,Himachal,"chickpeas, yogurt gravy, spices",400,16,50,15,150,65,400,dairy
+Babru,Himachal,"stuffed fried bread, black gram",380,10,55,14,50,55,300,gluten
+Til Chutney with Rice,Himachal,"sesame seeds, rice, spices",350,8,60,10,120,70,250,sesame
+Kaale Chane ka Khatta,Himachal,"black chickpeas, tangy spices, rice",400,15,65,8,80,75,380,none
+Patande,Himachal,"wheat flour pancake, jaggery",300,6,50,8,30,40,100,gluten
+Sepu Vadi,Himachal,"lentil dumplings, curd gravy, rice",420,16,55,14,140,65,420,dairy
+Mash Daal with Rice,Himachal,"black gram, rice, ghee",400,16,60,10,70,80,300,dairy
+Bhey Lotus Stem Curry with Roti,Himachal,"lotus stem, spices, wheat roti",350,8,50,10,60,55,350,gluten
+Chha Gosht with Rice,Himachal,"mutton, yogurt, spices, rice",550,30,45,25,100,60,500,dairy
+Aktori,Himachal,"buckwheat flour, jaggery",300,7,50,8,40,60,120,none
+Kullu Trout Curry with Rice,Himachal,"fish, spices, rice",450,28,45,15,80,50,450,fish
+Bisi Bele Bath,Karnataka,"rice, toor dal, vegetables, tamarind, spices",420,13,65,10,70,60,400,none
+Ragi Mudde with Sambar,Karnataka,"finger millet, toor dal",380,12,60,6,200,90,350,none
+Neer Dosa with Chutney,Karnataka,"rice batter, coconut",300,6,55,8,40,40,250,none
+Akki Roti,Karnataka,"rice flour, vegetables",320,7,55,8,50,45,300,none
+Mangalore Buns with Chutney,Karnataka,"banana, wheat flour, fried",350,6,55,12,30,35,200,gluten
+Kesari Bath,Karnataka,"semolina, sugar, ghee",350,5,60,12,30,30,100,"dairy,gluten"
+Vangi Bath Karnataka Style,Karnataka,"brinjal, rice, spices",400,8,65,10,45,50,380,none
+Kori Gassi with Rice,Karnataka,"chicken, coconut, spices, rice",500,28,50,20,60,50,500,none
+Maddur Vada with Coconut Chutney,Karnataka,"rice flour, semolina, onion, fried",320,6,45,14,30,35,350,none
+Huli with Rice,Karnataka,"toor dal, vegetables, tamarind, rice",400,12,65,8,60,55,380,none
+Chitranna Lemon Rice,Karnataka,"rice, peanuts, mustard seeds, turmeric",350,7,55,12,30,40,300,peanuts
+Obbattu Holige,Karnataka,"lentils, jaggery, wheat flour",320,6,60,8,30,35,80,gluten
